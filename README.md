@@ -8,6 +8,8 @@ This app models design features of popular sharing economy apps including integr
 
 ## Using GearShare
 
+![homepage gearshare](readme-assets/homepage-gearshare.png)
+
 ### To Share an Item:
 
   1. Click 'Share Gear' in the navigation bar
