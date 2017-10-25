@@ -10,10 +10,16 @@ This app models design features of popular sharing economy apps including integr
 
 ![homepage gearshare](readme-assets/homepage-gearshare.png)
 
+*Figure 1*. The GearShare homepage.
+
 ### To Share an Item:
 
   1. Click 'Share Gear' in the navigation bar
   2. Complete the form with item details, upload an image and click 'Create Item'
+
+![new item form image](readme-assets/new-item_gearshare.png)
+
+*Figure 2*. New gear item to share form.
 
 ### To Reserve an Item:
 
@@ -31,6 +37,19 @@ This app models design features of popular sharing economy apps including integr
   1. Click 'Find Gear' or enter the item keyword used when the item was reserved in the search field
   2. Click 'MORE INFO' then click the 'Owner' button
   3. Click 'Leave a Review', complete the form with review details and click 'Create Review'
+
+![new review image](readme-assets/new-review_gearshare.png)
+
+*Figure 3*. Leave a review for an item owner.
+
+### To add and remove an item from 'MyList'
+
+  1. 'MyList' is a convenient feature to keep track of items that need to be reserved. To add an item, simply click 'MyList', type the name of item and click 'Add'.
+  2. To remove the item click the orange 'x' that appears left of the listed item.
+
+![mylist items image](readme-assets/mylist_gearshare.png)
+
+*Figure 4*. Add or remove items from 'MyList'.
 
 ## Install GearShare locally
 
