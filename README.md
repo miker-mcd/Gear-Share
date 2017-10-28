@@ -67,8 +67,10 @@ One of the biggest challenges we faced was learning and implementing Bootstrap. 
 Another challenge was planning and executing features within a limited amount of time. This was one of the few projects where as a group we would determine the features and purpose of the application versus Dev Bootcamp providing that structure to us. We had to be observant of time-constraints as well as ensuring that core features were completed before deciding to add another feature. We were ambitious in the beginning, but became more focused in our approach to delivering a final product. Our experience highlighted the importance of maintaining good product management workflow and communication while under pressure.
 
 ## Next Steps
+The first step would be to develop a feature that would provide an incentive for users to return borrowed items to owners. Currently, the application relies on a honor-system to share and return items. Options for this feature include requiring valid user credit card information on sign-up or a token-system, where a limited number of tokens are provided to users and are exchanged with each approved item reservation.
 
+Another step would be to add filtering item searches by proximity to user. We would also like to enhance the 'MyList' feature so that it would provide a suggested items list based on a user's trip destination.
 
 ## The Team
 
-  - Team Members: Michael McDonald(miker-mcd), David Keller(dckeller) and Daniel Way(dwaypro)
+  - Team Members: Michael McDonald([miker-mcd](https://github.com/miker-mcd)), David Keller([dckeller](https://github.com/dckeller)) and Daniel Way([dwaypro](https://github.com/dwaypro))
